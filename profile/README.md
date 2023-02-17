@@ -4,7 +4,7 @@ What is digger
 Digger is an open source Terraform Cloud alternative. We allow you to manage your terraform runs directly in your CI/CD provider without compromising on security, scalability or usability of your runs. Everything runs within your CI provider and on your infrastructure so you don't need to trust your sensitive terraform state file with an external vendor.
 
 
-![](0001banner.png)
+![](https://raw.githubusercontent.com/diggerhq/.github/main/profile/0001banner.png)
 
 
 The key features of digger are:
